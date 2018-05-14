@@ -1,0 +1,9 @@
+上下居中
+1.父元素高度固定
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%)
+    
+   左右居中
+   1
+   

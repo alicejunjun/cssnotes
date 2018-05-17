@@ -1,1 +1,14 @@
 关于react的笔记
+1.安装node.js 环境
+2.安装webpack
+npm webpack -g
+使用蚂蚁金服的ant design UI 框架
+a：安装dva-cli脚手架
+$ npm install dva-cli -g
+$ dva -v
+dva-cli version 0.9.1
+b:创建项目
+$ dva new dva-quickstart
+$ cd dva-quickstart
+$ npm start
+

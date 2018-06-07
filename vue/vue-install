@@ -2,3 +2,14 @@
 vue项目搭建
 vue开发环境搭建 node.js,npm ,webpack,vue-cli,webstrom/vscode
 安装node.js,推荐去官网下载
+安装 webpack
+npm install webpack -g
+安装vue脚手架
+2.全局安装vue-cli,打开CMD命令行，npm install -g vue-cli 
+3.vue init webpack demo(你的项目名字)
+4.npm run dev
+使用elementUI
+
+二、安装Element
+
+npm i element-ui -S
